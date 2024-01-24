@@ -1,0 +1,2 @@
+# js-pokedex
+Javascript pokédex 
